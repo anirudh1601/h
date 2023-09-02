@@ -1,0 +1,16 @@
+{
+  "name": "sample-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket-relay.js",
+  "scripts": {
+    "start": "node websocket-relay.js"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "websocket": "^1.0.34",
+    "ws": "^8.12.0"
+  }
+}
