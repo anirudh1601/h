@@ -1,0 +1,8 @@
+
+spec:
+ name: sample-stream
+ services:
+ - name: web
+   git:
+     branch: main
+     repo_clone_url: https://github.com/anirudh1601/h
